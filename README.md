@@ -16,10 +16,10 @@ I am a dual-degree engineering undergraduate concurrently pursuing a B.Tech in E
 ## Professional Experience & Research
 <!--
 *   **Research Intern | WiSer Lab, IIT Madras**
-    Focused on Layer 1 (Physical Layer) signal processing pipelines for wireless communication systems. Implemented and validated Layer 2 (Data Link Layer) protocols, specifically MAC scheduling and ARQ mechanisms.
+    Focused on Layer 1 (Physical Layer) signal processing pipelines for wireless communication systems. Implemented and validated Layer 2 (Data Link Layer) protocols, specifically MAC scheduling and ARQ mechanisms. -->
 *   **60 GHz FMCW Synthetic Aperture Radar (SAR) Testbed**
     Engineered a decentralized SAR testbed utilizing an ESP32 for motion control and a Raspberry Pi for high-speed data acquisition. Developed a modular C/C++ IPC system to facilitate real-time sensor data streaming and multi-node synchronization.
-    -->
+   
 *   **Phase-Interferometry DOA Estimation**
     Developed a coherent Software Defined Radio (SDR) testbed for Phase-Interferometry Direction of Arrival (DOA) estimation. Conducted phase stability analysis utilizing circular statistics and benchmarked classical interferometry against a neural-network estimator on real-time captured data.
 *   **Human Activity Recognition via Accelerometer Data**
