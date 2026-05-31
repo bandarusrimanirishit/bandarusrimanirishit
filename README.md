@@ -29,7 +29,7 @@ I am a dual-degree engineering undergraduate concurrently pursuing a B.Tech in E
 
 ## Technical Proficiency
 
-*   **Languages:** C, C++, Python, MATLAB (including pulse-code modulation simulations and precision matrix reshaping).
+*   **Languages:** C, C++, Python,Verilog, System Verilog, MATLAB (including pulse-code modulation simulations and precision matrix reshaping).
 *   **Embedded Systems & Hardware:** STM32, ESP32, Arduino, Raspberry Pi, ADALM1000, ArduPilot, OAK-D-Lite. Experienced in autonomous UAV power system architecture, including integrating high-torque brushless motors with strict 6S battery and 20-inch propeller configurations.
 *   **RF & Communications:** GNU Radio, USRP TX/RX, AM/FM modulation, spectrum analysis, Software Defined Radio (SDR).
 *   **Systems & DevOps:** Linux (Ubuntu 24.04), QNX RTOS, Git, C++ IPC/multithreading.
